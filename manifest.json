@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Snake Game",
+    "version": "1.0",
+
+    "description": "A web extension version of the snake game.",
+
+    "icons": {
+        "_comment": "TODO: add icon here for web extension"
+    },
+
+    "content_scripts": [
+        {
+            "js": "TODO: add JS file here."
+        }
+    ]
+
+}
